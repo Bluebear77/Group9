@@ -1,13 +1,19 @@
 # Column Statistics
 
-| Directory   |   Total Columns |   Table Numbers |
-|:------------|----------------:|----------------:|
-| et          |               7 |               1 |
-| de          |              14 |               1 |
-| zh          |              12 |               1 |
-| it          |              14 |               1 |
-| nl          |               6 |               1 |
-| en          |              13 |               2 |
+# Column Statistics
+
+# Column Statistics
+
+| Directory   |   Total Columns |   Table Numbers(original) |   Table Numbers(cleaned) |
+|:------------|----------------:|---------------------------:|--------------------------:|
+| et          |               7 |                          1 |                         1 |
+| de          |              14 |                          2 |                         1 |
+| zh          |              12 |                          3 |                         1 |
+| it          |              14 |                          4 |                         1 |
+| nl          |               6 |                          2 |                         1 |
+| en          |              13 |                         13 |                         2 |
+
+
 
 # Model statistics
 
